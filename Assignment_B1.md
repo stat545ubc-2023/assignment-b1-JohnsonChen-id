@@ -1,6 +1,7 @@
 Assignment B1
 ================
-2023-10-31
+Johnson Chen
+2023-11-1
 
 Here lies the main body of our new function:
 
